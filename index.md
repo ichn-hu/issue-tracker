@@ -126,6 +126,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 | [#13440](https://github.com/pingcap/tidb/issues/13440)         |                                                        | minor    | <sub>@SunRunAway</sub>  |                                                      |      |
 | [#13018](https://github.com/pingcap/tidb/issues/13018)         |                                                        | minor    | @qw4990                 |                                                      |      |
 | [#8205](https://github.com/pingcap/tidb/issues/8205)&#x2757;   | &#x2665; yes!                                          | minor    |                         |                                                      |      |
+| [#22791](https://github.com/pingcap/tidb/issues/22791)         |                                                        |          |                         | [#22823](https://github.com/pingcap/tidb/pull/22823) |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -191,6 +192,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 ---
 
-updated at 2021-02-19T11:11:41-00:00
+updated at 2021-02-19T12:15:45-00:00
 
 
