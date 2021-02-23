@@ -116,7 +116,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 | [#22759](https://github.com/pingcap/tidb/issues/22759)         |                                                        | minor    |                         | [#22760](https://github.com/pingcap/tidb/pull/22760) |      |
 | [#22749](https://github.com/pingcap/tidb/issues/22749)         |                                                        | minor    |                         | [#22822](https://github.com/pingcap/tidb/pull/22822) |      |
 | [#22477](https://github.com/pingcap/tidb/issues/22477)&#x2757; |                                                        | minor    |                         |                                                      |      |
-| [#22423](https://github.com/pingcap/tidb/issues/22423)         |                                                        | minor    |                         | [#22432](https://github.com/pingcap/tidb/pull/22432) |      |
+| [#22423](https://github.com/pingcap/tidb/issues/22423)&#x2757; |                                                        | minor    |                         |                                                      |      |
 | [#22399](https://github.com/pingcap/tidb/issues/22399)&#x2757; |                                                        | minor    |                         |                                                      |      |
 | [#22227](https://github.com/pingcap/tidb/issues/22227)&#x2757; |                                                        | minor    |                         |                                                      |      |
 | [#21787](https://github.com/pingcap/tidb/issues/21787)&#x2757; |                                                        | minor    |                         |                                                      |      |
@@ -125,9 +125,9 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 | [#18493](https://github.com/pingcap/tidb/issues/18493)         |                                                        | minor    | @fzhedu                 |                                                      |      |
 | [#18401](https://github.com/pingcap/tidb/issues/18401)         |                                                        | minor    | @hanlins                | [#21340](https://github.com/pingcap/tidb/pull/21340) |      |
 | [#17993](https://github.com/pingcap/tidb/issues/17993)&#x2757; | &#x2665; yes!</br>Mentor: @qw4990</br>Score: 300       | minor    |                         |                                                      |      |
-| [#17832](https://github.com/pingcap/tidb/issues/17832)         | &#x2B50; picked</br>Mentor: @SunRunAway</br>Score: 300 | minor    | @qw4990                 | [#22432](https://github.com/pingcap/tidb/pull/22432) |      |
+| [#17832](https://github.com/pingcap/tidb/issues/17832)         | &#x2B50; picked</br>Mentor: @SunRunAway</br>Score: 300 | minor    | @qw4990                 |                                                      |      |
 | [#17751](https://github.com/pingcap/tidb/issues/17751)&#x2757; | &#x2665; yes!</br>Mentor: @lzmhhh123</br>Score: 300    | minor    |                         |                                                      |      |
-| [#17489](https://github.com/pingcap/tidb/issues/17489)         | &#x2665; yes!</br>Mentor: @lzmhhh123</br>Score: 300    | minor    |                         | [#22475](https://github.com/pingcap/tidb/pull/22475) |      |
+| [#17489](https://github.com/pingcap/tidb/issues/17489)&#x2757; | &#x2665; yes!</br>Mentor: @lzmhhh123</br>Score: 300    | minor    |                         |                                                      |      |
 | [#17008](https://github.com/pingcap/tidb/issues/17008)&#x2757; | &#x2665; yes!</br>Mentor: @lzmhhh123</br>Score: 300    | minor    |                         |                                                      |      |
 | [#13440](https://github.com/pingcap/tidb/issues/13440)         |                                                        | minor    | <sub>@SunRunAway</sub>  |                                                      |      |
 | [#13018](https://github.com/pingcap/tidb/issues/13018)         |                                                        | minor    | @qw4990                 |                                                      |      |
@@ -198,6 +198,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 ---
 
-updated at 2021-02-23T08:14:53-00:00
+updated at 2021-02-23T09:12:57-00:00
 
 
