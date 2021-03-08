@@ -80,7 +80,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 |----------------------------------------------------------------|--------------------------------------------------------|----------|-------------------------|------------------------------------------------------|------|
 | [#23144](https://github.com/pingcap/tidb/issues/23144)         |                                                        | critical | <sub>@TszKitLo40</sub>  |                                                      |      |
 | [#22735](https://github.com/pingcap/tidb/issues/22735)&#x2757; |                                                        | critical |                         |                                                      |      |
-| [#23157](https://github.com/pingcap/tidb/issues/23157)&#x2757; |                                                        | major    |                         |                                                      |      |
+| [#23157](https://github.com/pingcap/tidb/issues/23157)         |                                                        | major    |                         | [#23170](https://github.com/pingcap/tidb/pull/23170) |      |
 | [#23129](https://github.com/pingcap/tidb/issues/23129)         |                                                        | major    | <sub>@guo-shaoge</sub>  | [#23131](https://github.com/pingcap/tidb/pull/23131) |      |
 | [#23125](https://github.com/pingcap/tidb/issues/23125)&#x2757; |                                                        | major    |                         |                                                      |      |
 | [#23114](https://github.com/pingcap/tidb/issues/23114)&#x2757; |                                                        | major    |                         |                                                      |      |
@@ -206,6 +206,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 ---
 
-updated at 2021-03-08T08:19:35-00:00
+updated at 2021-03-08T09:18:48-00:00
 
 
