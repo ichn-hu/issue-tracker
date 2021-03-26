@@ -119,7 +119,7 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 | [#13157](https://github.com/pingcap/tidb/issues/13157)         | &#x2B50; picked</br>Mentor: @XuHuaiyu</br>Score: 300   | moderate | <sub>@wjhuang2016</sub>              |                                                      |      |
 | [#11932](https://github.com/pingcap/tidb/issues/11932)         |                                                        | moderate | @wshwsh12                            |                                                      |      |
 | [#11866](https://github.com/pingcap/tidb/issues/11866)         | &#x2B50; picked</br>Mentor: @qw4990</br>Score: 300     | moderate | @dragonly                            |                                                      |      |
-| [#23563](https://github.com/pingcap/tidb/issues/23563)&#x2757; |                                                        | minor    |                                      |                                                      |      |
+| [#23563](https://github.com/pingcap/tidb/issues/23563)         |                                                        | minor    | <sub>@TszKitLo40</sub>               |                                                      |      |
 | [#23366](https://github.com/pingcap/tidb/issues/23366)         |                                                        | minor    | @wshwsh12                            |                                                      |      |
 | [#22749](https://github.com/pingcap/tidb/issues/22749)&#x2757; |                                                        | minor    |                                      |                                                      |      |
 | [#22703](https://github.com/pingcap/tidb/issues/22703)         |                                                        | minor    | @xhebox                              | [#23519](https://github.com/pingcap/tidb/pull/23519) |      |
@@ -212,6 +212,6 @@ If there is a &#x2757; before the issue link, it means there is no one assigned,
 
 ---
 
-updated at 2021-03-26T09:06:52-00:00
+updated at 2021-03-26T10:06:40-00:00
 
 
