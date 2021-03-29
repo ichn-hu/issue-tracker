@@ -244,9 +244,9 @@ func getContributors() error {
 	}
 	for _, contri := range list {
 		fmt.Println(contri[0].author, len(contri))
-		if _, ok := pc[contri[0].author]; ok {
-			continue
-		}
+		//if _, ok := pc[contri[0].author]; ok {
+		//	continue
+		//}
 		for _, c := range contri {
 			_, err := f.WriteString(fmt.Sprintf("%s,%d,%s,%f,%s,%s,%s\n", c.author, len(contri), c.severity, c.di, c.issue_url, c.pr_url, c.closed_at.String()))
 			if err != nil {
