@@ -283,7 +283,7 @@ func generateTrackTable() string {
 
 	for _, labels := range trackedLabels {
 		issues := db.GetIssues("OPEN", labels)
-		header := []string{"issue", "challenge", "priority", "assignee", "pr", "hint"}
+		header := []string{"issue", "priority", "assignee", "pr", "hint"}
 		data := make([][]string, 0, len(issues))
 
 		for _, i := range issues {
@@ -334,6 +334,8 @@ func generateTrackTable() string {
 				}
 				return ""
 			}(i))
+			// remove challenge
+			d = d[:len(d)-1]
 
 			// priority
 			d = append(d, func(labels []string) string {
@@ -436,11 +438,11 @@ Let's get started by solving some bugs! Here is a curated list of some easy-to-g
 * [sig/transaction](#sig/transaction)
 * [sig/DDL](#sig/DDL)
 
-Note: currently the issues are classified by their SIG owners, such as sig/planner and sig/execution which stands for special interests groups that focus on SQL planning and SQL execution, to know more about TiDB community, see [the community repository](https://github.com/pingcap/community). We also host discussions on slack, if you are not in the corresponding slack channel, we highly recommend you to join so that you could ask questions and get responses immediately from these SIGs members. [Join TiDB Community slack workspace now!](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE)
-
-The "challenge" column in the following tables indicates whether the issue is of a challenge program, and "yes" means it is, while "picked" means it has been picked by someone.
+Note: currently the issues are classified by their SIG owners, such as sig/planner and sig/execution, which stands for special interests groups that focus on SQL planning and SQL execution, to know more about TiDB community, see [the community repository](https://github.com/pingcap/community). We also host discussions on slack, if you are not in the corresponding slack channel, we highly recommend you to join so that you could ask questions and get responses immediately from these SIGs members. [Join TiDB Community slack workspace now!](https://join.slack.com/t/tidbcommunity/shared_invite/enQtNzc0MzI4ODExMDc4LWYwYmIzMjZkYzJiNDUxMmZlN2FiMGJkZjAyMzQ5NGU0NGY0NzI3NTYwMjAyNGQ1N2I2ZjAxNzc1OGUwYWM0NzE)
 
 If there is a &#x2757; before the issue link, it means there is no one assigned, nor a PR linked, nor picked, and it is for the maintainers to track the progress of each issue, it is also a notation of "welcome to take a look".
+
+Feel free to comment on issues that interest you, and ask whatever questions you have on how to get started working on them!
 
 <h2 name="sig/planner">sig/planner</h2>
 
@@ -484,7 +486,7 @@ updated at {{ .UpdatedAt }}
 }
 
 func reportToIssue(content string) (url string, err error) {
-	title := "Bug Fixing Challenge [Welcome to contribute]"
+	title := "Welcome to contribute"
 
 	var m struct {
 		UpdateIssue struct {
