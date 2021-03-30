@@ -140,9 +140,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23563](https://github.com/pingcap/tidb/issues/23563)         | minor    | <sub>@TszKitLo40</sub>               |                                                                                                               |      |
 | [#23583](https://github.com/pingcap/tidb/issues/23583)         | critical | @XuHuaiyu                            |                                                                                                               |      |
 | [#23609](https://github.com/pingcap/tidb/issues/23609)         | critical | @ichn-hu                             |                                                                                                               |      |
-| [#23623](https://github.com/pingcap/tidb/issues/23623)         | critical | <sub>@guo-shaoge</sub>               |                                                                                                               |      |
-| [#23653](https://github.com/pingcap/tidb/issues/23653)         | critical | @lzmhhh123                           | [#23678](https://github.com/pingcap/tidb/pull/23678)                                                          |      |
-| [#23657](https://github.com/pingcap/tidb/issues/23657)         | critical | @lzmhhh123                           | [#23678](https://github.com/pingcap/tidb/pull/23678)                                                          |      |
+| [#23623](https://github.com/pingcap/tidb/issues/23623)         | critical | <sub>@guo-shaoge</sub>               | [#23694](https://github.com/pingcap/tidb/pull/23694)                                                          |      |
 | [#23662](https://github.com/pingcap/tidb/issues/23662)         | critical | @lzmhhh123                           | [#23687](https://github.com/pingcap/tidb/pull/23687)                                                          |      |
 | [#23684](https://github.com/pingcap/tidb/issues/23684)         |          | @ichn-hu                             |                                                                                                               |      |
 
@@ -182,7 +180,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23331](https://github.com/pingcap/tidb/issues/23331)         | major    | @cfzjywxk                | [#23342](https://github.com/pingcap/tidb/pull/23342) |      |
 | [#23423](https://github.com/pingcap/tidb/issues/23423)&#x2757; | moderate |                          |                                                      |      |
 | [#23542](https://github.com/pingcap/tidb/issues/23542)&#x2757; | minor    |                          |                                                      |      |
-| [#23676](https://github.com/pingcap/tidb/issues/23676)         |          | <sub>@longfangsong</sub> |                                                      |      |
+| [#23676](https://github.com/pingcap/tidb/issues/23676)         |          | <sub>@longfangsong</sub> | [#23695](https://github.com/pingcap/tidb/pull/23695) |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -219,6 +217,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-03-30T10:05:11-00:00
+updated at 2021-03-30T11:05:09-00:00
 
 
