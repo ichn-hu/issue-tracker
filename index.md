@@ -176,7 +176,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23423](https://github.com/pingcap/tidb/issues/23423)&#x2757; | moderate |                         |                                                      |      |
 | [#23542](https://github.com/pingcap/tidb/issues/23542)&#x2757; | minor    |                         |                                                      |      |
 | [#23707](https://github.com/pingcap/tidb/issues/23707)         | critical | <sub>@wjhuang2016</sub> | [#23742](https://github.com/pingcap/tidb/pull/23742) |      |
-| [#23753](https://github.com/pingcap/tidb/issues/23753)         | major    |                         | [#23774](https://github.com/pingcap/tidb/pull/23774) |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -213,6 +212,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-03-31T19:09:24-00:00
+updated at 2021-03-31T20:05:24-00:00
 
 
