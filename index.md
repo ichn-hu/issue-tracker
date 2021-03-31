@@ -65,7 +65,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23625](https://github.com/pingcap/tidb/issues/23625)&#x2757; |          |                                                                     |                                                                                                               |      |
 | [#23659](https://github.com/pingcap/tidb/issues/23659)&#x2757; | moderate |                                                                     |                                                                                                               |      |
 | [#23665](https://github.com/pingcap/tidb/issues/23665)&#x2757; | critical |                                                                     |                                                                                                               |      |
-| [#23671](https://github.com/pingcap/tidb/issues/23671)         | critical | @qw4990                                                             | [#23758](https://github.com/pingcap/tidb/pull/23758)                                                          |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -140,7 +139,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23563](https://github.com/pingcap/tidb/issues/23563)         | minor    | <sub>@TszKitLo40</sub>               | [#23764](https://github.com/pingcap/tidb/pull/23764) |      |
 | [#23583](https://github.com/pingcap/tidb/issues/23583)         | critical | @XuHuaiyu                            |                                                      |      |
 | [#23609](https://github.com/pingcap/tidb/issues/23609)         | critical | @ichn-hu                             |                                                      |      |
-| [#23693](https://github.com/pingcap/tidb/issues/23693)         | critical | @XuHuaiyu                            |                                                      |      |
+| [#23693](https://github.com/pingcap/tidb/issues/23693)         | critical | @XuHuaiyu                            | [#23770](https://github.com/pingcap/tidb/pull/23770) |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -178,8 +177,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23423](https://github.com/pingcap/tidb/issues/23423)&#x2757; | moderate |                         |                                                      |      |
 | [#23542](https://github.com/pingcap/tidb/issues/23542)&#x2757; | minor    |                         |                                                      |      |
 | [#23707](https://github.com/pingcap/tidb/issues/23707)         | critical | <sub>@wjhuang2016</sub> | [#23742](https://github.com/pingcap/tidb/pull/23742) |      |
-| [#23708](https://github.com/pingcap/tidb/issues/23708)         | critical | <sub>@wjhuang2016</sub> | [#23751](https://github.com/pingcap/tidb/pull/23751) |      |
-| [#23753](https://github.com/pingcap/tidb/issues/23753)&#x2757; |          |                         |                                                      |      |
+| [#23753](https://github.com/pingcap/tidb/issues/23753)         | major    |                         | [#23774](https://github.com/pingcap/tidb/pull/23774) |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -216,6 +214,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-03-31T14:05:09-00:00
+updated at 2021-03-31T16:06:39-00:00
 
 
