@@ -61,12 +61,11 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23539](https://github.com/pingcap/tidb/issues/23539)&#x2757; | moderate |                                                                     |                                                                                                               |      |
 | [#23567](https://github.com/pingcap/tidb/issues/23567)         | major    | @winoros                                                            |                                                                                                               |      |
 | [#23582](https://github.com/pingcap/tidb/issues/23582)&#x2757; | moderate |                                                                     |                                                                                                               |      |
-| [#23606](https://github.com/pingcap/tidb/issues/23606)         | major    | @eurekaka                                                           | [#23733](https://github.com/pingcap/tidb/pull/23733)</br>[#23746](https://github.com/pingcap/tidb/pull/23746) |      |
+| [#23606](https://github.com/pingcap/tidb/issues/23606)         | major    | @cfzjywxk                                                           | [#23733](https://github.com/pingcap/tidb/pull/23733)</br>[#23746](https://github.com/pingcap/tidb/pull/23746) |      |
 | [#23625](https://github.com/pingcap/tidb/issues/23625)&#x2757; |          |                                                                     |                                                                                                               |      |
 | [#23659](https://github.com/pingcap/tidb/issues/23659)&#x2757; | moderate |                                                                     |                                                                                                               |      |
 | [#23665](https://github.com/pingcap/tidb/issues/23665)&#x2757; | critical |                                                                     |                                                                                                               |      |
-| [#23671](https://github.com/pingcap/tidb/issues/23671)         | critical | @qw4990                                                             |                                                                                                               |      |
-| [#23737](https://github.com/pingcap/tidb/issues/23737)         | critical |                                                                     | [#23727](https://github.com/pingcap/tidb/pull/23727)                                                          |      |
+| [#23671](https://github.com/pingcap/tidb/issues/23671)         | critical | @qw4990                                                             | [#23758](https://github.com/pingcap/tidb/pull/23758)                                                          |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -217,6 +216,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-03-31T11:05:07-00:00
+updated at 2021-03-31T12:06:32-00:00
 
 
