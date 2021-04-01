@@ -46,7 +46,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#21677](https://github.com/pingcap/tidb/issues/21677)         | major    | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                                                                               |      |
 | [#22082](https://github.com/pingcap/tidb/issues/22082)&#x2757; | moderate |                                                                     |                                                                                                               |      |
 | [#22096](https://github.com/pingcap/tidb/issues/22096)&#x2757; | moderate |                                                                     |                                                                                                               |      |
-| [#22301](https://github.com/pingcap/tidb/issues/22301)         | major    | <sub>@Reminiscent</sub></br><sub><sup>@xuyifangreeneyes</sup></sub> |                                                                                                               |      |
+| [#22301](https://github.com/pingcap/tidb/issues/22301)         | minor    | <sub>@Reminiscent</sub></br><sub><sup>@xuyifangreeneyes</sup></sub> |                                                                                                               |      |
 | [#22404](https://github.com/pingcap/tidb/issues/22404)         | major    | @eurekaka                                                           |                                                                                                               |      |
 | [#22535](https://github.com/pingcap/tidb/issues/22535)&#x2757; | minor    |                                                                     |                                                                                                               |      |
 | [#22680](https://github.com/pingcap/tidb/issues/22680)         | major    | @eurekaka                                                           | [#23728](https://github.com/pingcap/tidb/pull/23728)                                                          |      |
@@ -211,6 +211,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-01T02:27:04-00:00
+updated at 2021-04-01T03:11:36-00:00
 
 
