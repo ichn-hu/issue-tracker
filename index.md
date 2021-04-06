@@ -138,7 +138,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23531](https://github.com/pingcap/tidb/issues/23531)&#x2757; | moderate |                                      |                                                      |      |
 | [#23583](https://github.com/pingcap/tidb/issues/23583)         | critical | @XuHuaiyu                            |                                                      |      |
 | [#23609](https://github.com/pingcap/tidb/issues/23609)         | critical | @ichn-hu                             |                                                      |      |
-| [#23832](https://github.com/pingcap/tidb/issues/23832)&#x2757; | critical |                                      |                                                      |      |
+| [#23832](https://github.com/pingcap/tidb/issues/23832)         | critical | @lzmhhh123                           |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -212,6 +212,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-06T03:11:40-00:00
+updated at 2021-04-06T04:06:34-00:00
 
 
