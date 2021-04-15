@@ -168,7 +168,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#22345](https://github.com/pingcap/tidb/issues/22345)         | minor    | @lysu                   | [#22372](https://github.com/pingcap/tidb/pull/22372) |      |
 | [#22356](https://github.com/pingcap/tidb/issues/22356)&#x2757; | moderate |                         |                                                      |      |
 | [#22393](https://github.com/pingcap/tidb/issues/22393)&#x2757; | moderate |                         |                                                      |      |
-| [#22658](https://github.com/pingcap/tidb/issues/22658)         | major    | @morgo                  | [#23818](https://github.com/pingcap/tidb/pull/23818) |      |
 | [#22783](https://github.com/pingcap/tidb/issues/22783)&#x2757; | minor    |                         |                                                      |      |
 | [#22927](https://github.com/pingcap/tidb/issues/22927)&#x2757; | critical |                         |                                                      |      |
 | [#23015](https://github.com/pingcap/tidb/issues/23015)&#x2757; | minor    |                         |                                                      |      |
@@ -216,6 +215,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-15T09:04:52-00:00
+updated at 2021-04-15T10:04:56-00:00
 
 
