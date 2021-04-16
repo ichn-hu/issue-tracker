@@ -60,7 +60,8 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23659](https://github.com/pingcap/tidb/issues/23659)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#23665](https://github.com/pingcap/tidb/issues/23665)&#x2757; | critical |                                                                     |                                                      |      |
 | [#23965](https://github.com/pingcap/tidb/issues/23965)&#x2757; | moderate |                                                                     |                                                      |      |
-| [#24045](https://github.com/pingcap/tidb/issues/24045)&#x2757; |          |                                                                     |                                                      |      |
+| [#24045](https://github.com/pingcap/tidb/issues/24045)&#x2757; | major    |                                                                     |                                                      |      |
+| [#24057](https://github.com/pingcap/tidb/issues/24057)&#x2757; | major    |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -138,6 +139,8 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23919](https://github.com/pingcap/tidb/issues/23919)         | moderate | @tangenta               | [#23936](https://github.com/pingcap/tidb/pull/23936) |      |
 | [#23949](https://github.com/pingcap/tidb/issues/23949)&#x2757; | moderate |                         |                                                      |      |
 | [#23952](https://github.com/pingcap/tidb/issues/23952)&#x2757; | moderate |                         |                                                      |      |
+| [#24044](https://github.com/pingcap/tidb/issues/24044)&#x2757; | minor    |                         |                                                      |      |
+| [#24071](https://github.com/pingcap/tidb/issues/24071)         | critical | @wshwsh12               |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -211,6 +214,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-16T05:09:09-00:00
+updated at 2021-04-16T06:05:32-00:00
 
 
