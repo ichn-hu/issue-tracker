@@ -144,7 +144,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23952](https://github.com/pingcap/tidb/issues/23952)&#x2757; | moderate |                         |                                                      |      |
 | [#24044](https://github.com/pingcap/tidb/issues/24044)&#x2757; | minor    |                         |                                                      |      |
 | [#24076](https://github.com/pingcap/tidb/issues/24076)&#x2757; | critical |                         |                                                      |      |
-| [#24095](https://github.com/pingcap/tidb/issues/24095)&#x2757; | major    |                         |                                                      |      |
+| [#24095](https://github.com/pingcap/tidb/issues/24095)         | major    | @mmyj                   |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -218,6 +218,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-17T04:05:39-00:00
+updated at 2021-04-17T05:08:25-00:00
 
 
