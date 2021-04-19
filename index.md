@@ -67,6 +67,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24015](https://github.com/pingcap/tidb/issues/24015)         | major    | @rebelice                                                           |                                                      |      |
 | [#24045](https://github.com/pingcap/tidb/issues/24045)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24057](https://github.com/pingcap/tidb/issues/24057)&#x2757; | major    |                                                                     |                                                      |      |
+| [#24095](https://github.com/pingcap/tidb/issues/24095)         | major    | @mmyj                                                               | [#24102](https://github.com/pingcap/tidb/pull/24102) |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -132,11 +133,11 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23501](https://github.com/pingcap/tidb/issues/23501)&#x2757; | moderate |                         |                                                      |      |
 | [#23508](https://github.com/pingcap/tidb/issues/23508)         | major    | <sub>@wjhuang2016</sub> | [#23559](https://github.com/pingcap/tidb/pull/23559) |      |
 | [#23531](https://github.com/pingcap/tidb/issues/23531)&#x2757; | moderate |                         |                                                      |      |
-| [#23583](https://github.com/pingcap/tidb/issues/23583)         | critical | @XuHuaiyu               |                                                      |      |
+| [#23583](https://github.com/pingcap/tidb/issues/23583)         | critical | @wshwsh12               |                                                      |      |
 | [#23865](https://github.com/pingcap/tidb/issues/23865)         | moderate | @xhebox                 |                                                      |      |
 | [#23869](https://github.com/pingcap/tidb/issues/23869)         | moderate | @ichn-hu                |                                                      |      |
 | [#23870](https://github.com/pingcap/tidb/issues/23870)         | major    | <sub>@xiongjiwei</sub>  |                                                      |      |
-| [#23897](https://github.com/pingcap/tidb/issues/23897)         | major    | @XuHuaiyu               |                                                      |      |
+| [#23897](https://github.com/pingcap/tidb/issues/23897)         | major    | @wshwsh12               |                                                      |      |
 | [#23898](https://github.com/pingcap/tidb/issues/23898)         | major    | @lzmhhh123              |                                                      |      |
 | [#23899](https://github.com/pingcap/tidb/issues/23899)         | major    | @lzmhhh123              |                                                      |      |
 | [#23919](https://github.com/pingcap/tidb/issues/23919)         | moderate | @tangenta               | [#23936](https://github.com/pingcap/tidb/pull/23936) |      |
@@ -144,7 +145,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23952](https://github.com/pingcap/tidb/issues/23952)&#x2757; | moderate |                         |                                                      |      |
 | [#24044](https://github.com/pingcap/tidb/issues/24044)&#x2757; | minor    |                         |                                                      |      |
 | [#24076](https://github.com/pingcap/tidb/issues/24076)&#x2757; | critical |                         |                                                      |      |
-| [#24095](https://github.com/pingcap/tidb/issues/24095)         | major    | @mmyj                   |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -218,6 +218,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-19T01:29:17-00:00
+updated at 2021-04-19T02:23:53-00:00
 
 
