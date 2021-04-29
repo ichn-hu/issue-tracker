@@ -66,9 +66,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24014](https://github.com/pingcap/tidb/issues/24014)         | major    | @rebelice                                                           |                                                      |      |
 | [#24015](https://github.com/pingcap/tidb/issues/24015)         | major    | @rebelice                                                           |                                                      |      |
 | [#24057](https://github.com/pingcap/tidb/issues/24057)&#x2757; | major    |                                                                     |                                                      |      |
-| [#24259](https://github.com/pingcap/tidb/issues/24259)         | critical | @qw4990                                                             | [#24338](https://github.com/pingcap/tidb/pull/24338) |      |
 | [#24281](https://github.com/pingcap/tidb/issues/24281)         |          | <sub>@francis0407</sub>                                             | [#24342](https://github.com/pingcap/tidb/pull/24342) |      |
-| [#24307](https://github.com/pingcap/tidb/issues/24307)         | critical | @qw4990                                                             | [#24338](https://github.com/pingcap/tidb/pull/24338) |      |
 | [#24309](https://github.com/pingcap/tidb/issues/24309)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#24318](https://github.com/pingcap/tidb/issues/24318)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24323](https://github.com/pingcap/tidb/issues/24323)&#x2757; | major    |                                                                     |                                                      |      |
@@ -225,6 +223,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-29T09:15:25-00:00
+updated at 2021-04-29T10:15:44-00:00
 
 
