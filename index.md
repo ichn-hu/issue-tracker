@@ -75,6 +75,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24323](https://github.com/pingcap/tidb/issues/24323)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24324](https://github.com/pingcap/tidb/issues/24324)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24325](https://github.com/pingcap/tidb/issues/24325)&#x2757; | major    |                                                                     |                                                      |      |
+| [#24349](https://github.com/pingcap/tidb/issues/24349)         |          | @rebelice                                                           | [#24370](https://github.com/pingcap/tidb/pull/24370) |      |
 | [#24356](https://github.com/pingcap/tidb/issues/24356)&#x2757; | critical |                                                                     |                                                      |      |
 
 
@@ -226,6 +227,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-04-29T05:19:21-00:00
+updated at 2021-04-29T06:18:00-00:00
 
 
