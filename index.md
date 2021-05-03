@@ -57,7 +57,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#23582](https://github.com/pingcap/tidb/issues/23582)         | moderate | @eurekaka                                                           |                                                      |      |
 | [#23633](https://github.com/pingcap/tidb/issues/23633)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#23659](https://github.com/pingcap/tidb/issues/23659)&#x2757; | moderate |                                                                     |                                                      |      |
-| [#23665](https://github.com/pingcap/tidb/issues/23665)         | critical | <sub><sup>@xuyifangreeneyes</sup></sub>                             |                                                      |      |
+| [#23665](https://github.com/pingcap/tidb/issues/23665)         | critical | @winoros                                                            |                                                      |      |
 | [#23887](https://github.com/pingcap/tidb/issues/23887)         | critical | <sub>@guo-shaoge</sub>                                              | [#24369](https://github.com/pingcap/tidb/pull/24369) |      |
 | [#23965](https://github.com/pingcap/tidb/issues/23965)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#24010](https://github.com/pingcap/tidb/issues/24010)         | major    | @rebelice                                                           |                                                      |      |
@@ -72,7 +72,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24323](https://github.com/pingcap/tidb/issues/24323)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24324](https://github.com/pingcap/tidb/issues/24324)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24325](https://github.com/pingcap/tidb/issues/24325)&#x2757; | major    |                                                                     |                                                      |      |
-| [#24356](https://github.com/pingcap/tidb/issues/24356)&#x2757; | critical |                                                                     |                                                      |      |
+| [#24356](https://github.com/pingcap/tidb/issues/24356)         | critical | @winoros                                                            |                                                      |      |
 | [#24401](https://github.com/pingcap/tidb/issues/24401)         |          | @rebelice                                                           |                                                      |      |
 
 
@@ -224,6 +224,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-03T05:19:22-00:00
+updated at 2021-05-03T06:18:33-00:00
 
 
