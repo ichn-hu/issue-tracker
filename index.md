@@ -78,7 +78,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24444](https://github.com/pingcap/tidb/issues/24444)         | major    | @eurekaka                                                           |                                                      |      |
 | [#24452](https://github.com/pingcap/tidb/issues/24452)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24473](https://github.com/pingcap/tidb/issues/24473)&#x2757; | critical |                                                                     |                                                      |      |
-| [#24477](https://github.com/pingcap/tidb/issues/24477)&#x2757; | critical |                                                                     |                                                      |      |
+| [#24477](https://github.com/pingcap/tidb/issues/24477)         | critical | @sylzd                                                              |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -231,6 +231,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-10T06:16:16-00:00
+updated at 2021-05-10T07:17:03-00:00
 
 
