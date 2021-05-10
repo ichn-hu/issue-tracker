@@ -78,6 +78,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24452](https://github.com/pingcap/tidb/issues/24452)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24473](https://github.com/pingcap/tidb/issues/24473)&#x2757; | critical |                                                                     |                                                      |      |
 | [#24477](https://github.com/pingcap/tidb/issues/24477)         | critical | @sylzd                                                              |                                                      |      |
+| [#24512](https://github.com/pingcap/tidb/issues/24512)&#x2757; |          |                                                                     |                                                      |      |
 | [#24526](https://github.com/pingcap/tidb/issues/24526)         | major    | @winoros                                                            |                                                      |      |
 
 
@@ -231,6 +232,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-10T13:23:17-00:00
+updated at 2021-05-10T14:13:19-00:00
 
 
