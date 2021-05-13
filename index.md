@@ -79,7 +79,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24563](https://github.com/pingcap/tidb/issues/24563)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24571](https://github.com/pingcap/tidb/issues/24571)         | moderate | <sub>@xiongjiwei</sub>                                              | [#24614](https://github.com/pingcap/tidb/pull/24614) |      |
 | [#24594](https://github.com/pingcap/tidb/issues/24594)&#x2757; | major    |                                                                     |                                                      |      |
-| [#24622](https://github.com/pingcap/tidb/issues/24622)&#x2757; |          |                                                                     |                                                      |      |
+| [#24622](https://github.com/pingcap/tidb/issues/24622)&#x2757; | moderate |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -242,6 +242,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-13T09:15:34-00:00
+updated at 2021-05-13T10:16:14-00:00
 
 
