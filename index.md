@@ -82,7 +82,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24679](https://github.com/pingcap/tidb/issues/24679)&#x2757; | major    |                                                                     |                                                      |      |
 | [#24705](https://github.com/pingcap/tidb/issues/24705)         | major    | @sylzd                                                              |                                                      |      |
 | [#24722](https://github.com/pingcap/tidb/issues/24722)         | moderate | @eurekaka                                                           | [#24753](https://github.com/pingcap/tidb/pull/24753) |      |
-| [#24743](https://github.com/pingcap/tidb/issues/24743)         | moderate | @eurekaka                                                           |                                                      |      |
+| [#24743](https://github.com/pingcap/tidb/issues/24743)         | moderate | @eurekaka                                                           | [#24793](https://github.com/pingcap/tidb/pull/24793) |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -216,6 +216,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24586](https://github.com/pingcap/tidb/issues/24586)&#x2757; | major    |                         |                                                      |      |
 | [#24589](https://github.com/pingcap/tidb/issues/24589)&#x2757; | moderate |                         |                                                      |      |
 | [#24774](https://github.com/pingcap/tidb/issues/24774)         | major    | <sub>@MyonKeminta</sub> | [#24779](https://github.com/pingcap/tidb/pull/24779) |      |
+| [#24795](https://github.com/pingcap/tidb/issues/24795)&#x2757; |          |                         |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -252,6 +253,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-20T08:17:49-00:00
+updated at 2021-05-20T09:16:44-00:00
 
 
