@@ -80,7 +80,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24667](https://github.com/pingcap/tidb/issues/24667)         | moderate | <sub><sup>@time-and-fate</sup></sub>                                | [#24669](https://github.com/pingcap/tidb/pull/24669) |      |
 | [#24676](https://github.com/pingcap/tidb/issues/24676)         | major    |                                                                     | [#24708](https://github.com/pingcap/tidb/pull/24708) |      |
 | [#24679](https://github.com/pingcap/tidb/issues/24679)&#x2757; | major    |                                                                     |                                                      |      |
-| [#24705](https://github.com/pingcap/tidb/issues/24705)&#x2757; | major    |                                                                     |                                                      |      |
+| [#24705](https://github.com/pingcap/tidb/issues/24705)         | major    | @sylzd                                                              |                                                      |      |
 | [#24722](https://github.com/pingcap/tidb/issues/24722)         | moderate | @eurekaka                                                           | [#24753](https://github.com/pingcap/tidb/pull/24753) |      |
 | [#24743](https://github.com/pingcap/tidb/issues/24743)         | moderate | @eurekaka                                                           |                                                      |      |
 
@@ -252,6 +252,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-20T03:26:05-00:00
+updated at 2021-05-20T04:23:39-00:00
 
 
