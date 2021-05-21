@@ -165,9 +165,9 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24627](https://github.com/pingcap/tidb/issues/24627)&#x2757; | moderate |                         |                                                      |      |
 | [#24636](https://github.com/pingcap/tidb/issues/24636)         | critical | @mjonss                 |                                                      |      |
 | [#24690](https://github.com/pingcap/tidb/issues/24690)         | minor    |                         | [#24691](https://github.com/pingcap/tidb/pull/24691) |      |
-| [#24706](https://github.com/pingcap/tidb/issues/24706)&#x2757; | major    |                         |                                                      |      |
-| [#24716](https://github.com/pingcap/tidb/issues/24716)&#x2757; | major    |                         |                                                      |      |
-| [#24717](https://github.com/pingcap/tidb/issues/24717)&#x2757; | major    |                         |                                                      |      |
+| [#24706](https://github.com/pingcap/tidb/issues/24706)         | major    | @lysu                   |                                                      |      |
+| [#24716](https://github.com/pingcap/tidb/issues/24716)         | major    |                         | [#24568](https://github.com/pingcap/tidb/pull/24568) |      |
+| [#24717](https://github.com/pingcap/tidb/issues/24717)         | major    |                         | [#24568](https://github.com/pingcap/tidb/pull/24568) |      |
 | [#24725](https://github.com/pingcap/tidb/issues/24725)&#x2757; | moderate |                         |                                                      |      |
 | [#24741](https://github.com/pingcap/tidb/issues/24741)         | critical | @cfzjywxk               |                                                      |      |
 | [#24746](https://github.com/pingcap/tidb/issues/24746)         | critical | @mjonss                 |                                                      |      |
@@ -250,6 +250,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-21T02:15:12-00:00
+updated at 2021-05-21T03:27:51-00:00
 
 
