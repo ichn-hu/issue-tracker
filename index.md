@@ -170,11 +170,12 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24768](https://github.com/pingcap/tidb/issues/24768)&#x2757; | major    |                         |                                                      |      |
 | [#24771](https://github.com/pingcap/tidb/issues/24771)         | major    | @lzmhhh123              |                                                      |      |
 | [#24819](https://github.com/pingcap/tidb/issues/24819)&#x2757; | major    |                         |                                                      |      |
-| [#24868](https://github.com/pingcap/tidb/issues/24868)&#x2757; | major    |                         |                                                      |      |
+| [#24868](https://github.com/pingcap/tidb/issues/24868)         | major    | @XuHuaiyu               |                                                      |      |
 | [#24888](https://github.com/pingcap/tidb/issues/24888)         | minor    |                         | [#24889](https://github.com/pingcap/tidb/pull/24889) |      |
 | [#24917](https://github.com/pingcap/tidb/issues/24917)&#x2757; | moderate |                         |                                                      |      |
 | [#24930](https://github.com/pingcap/tidb/issues/24930)         | critical | @qw4990                 | [#24935](https://github.com/pingcap/tidb/pull/24935) |      |
 | [#24933](https://github.com/pingcap/tidb/issues/24933)&#x2757; | critical |                         |                                                      |      |
+| [#24949](https://github.com/pingcap/tidb/issues/24949)&#x2757; |          |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -252,6 +253,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-28T04:07:41-00:00
+updated at 2021-05-28T06:17:29-00:00
 
 
