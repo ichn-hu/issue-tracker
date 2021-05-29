@@ -176,9 +176,12 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24920](https://github.com/pingcap/tidb/issues/24920)&#x2757; | critical |                         |                                                      |      |
 | [#24930](https://github.com/pingcap/tidb/issues/24930)         | critical | @qw4990                 | [#24935](https://github.com/pingcap/tidb/pull/24935) |      |
 | [#24933](https://github.com/pingcap/tidb/issues/24933)&#x2757; | critical |                         |                                                      |      |
-| [#24949](https://github.com/pingcap/tidb/issues/24949)&#x2757; |          |                         |                                                      |      |
-| [#24953](https://github.com/pingcap/tidb/issues/24953)&#x2757; |          |                         |                                                      |      |
-| [#24955](https://github.com/pingcap/tidb/issues/24955)&#x2757; |          |                         |                                                      |      |
+| [#24943](https://github.com/pingcap/tidb/issues/24943)&#x2757; | major    |                         |                                                      |      |
+| [#24944](https://github.com/pingcap/tidb/issues/24944)&#x2757; | critical |                         |                                                      |      |
+| [#24949](https://github.com/pingcap/tidb/issues/24949)&#x2757; | major    |                         |                                                      |      |
+| [#24951](https://github.com/pingcap/tidb/issues/24951)&#x2757; | moderate |                         |                                                      |      |
+| [#24953](https://github.com/pingcap/tidb/issues/24953)&#x2757; | moderate |                         |                                                      |      |
+| [#24955](https://github.com/pingcap/tidb/issues/24955)&#x2757; | moderate |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -256,6 +259,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-05-28T23:30:40-00:00
+updated at 2021-05-29T01:19:17-00:00
 
 
