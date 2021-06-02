@@ -93,7 +93,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25014](https://github.com/pingcap/tidb/issues/25014)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25041](https://github.com/pingcap/tidb/issues/25041)         | moderate | @eurekaka                                                           |                                                      |      |
 | [#25043](https://github.com/pingcap/tidb/issues/25043)&#x2757; | major    |                                                                     |                                                      |      |
-| [#25045](https://github.com/pingcap/tidb/issues/25045)&#x2757; | major    |                                                                     |                                                      |      |
+| [#25045](https://github.com/pingcap/tidb/issues/25045)         | major    | @zhuo-zhi                                                           |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -189,7 +189,8 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24972](https://github.com/pingcap/tidb/issues/24972)&#x2757; | major    |                         |                                                      |      |
 | [#24997](https://github.com/pingcap/tidb/issues/24997)&#x2757; |          |                         |                                                      |      |
 | [#25012](https://github.com/pingcap/tidb/issues/25012)&#x2757; | major    |                         |                                                      |      |
-| [#25038](https://github.com/pingcap/tidb/issues/25038)&#x2757; | major    |                         |                                                      |      |
+| [#25038](https://github.com/pingcap/tidb/issues/25038)         | major    | @ichn-hu                |                                                      |      |
+| [#25053](https://github.com/pingcap/tidb/issues/25053)&#x2757; | moderate |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -269,6 +270,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-02T07:48:27-00:00
+updated at 2021-06-02T09:47:07-00:00
 
 
