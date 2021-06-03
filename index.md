@@ -71,7 +71,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24324](https://github.com/pingcap/tidb/issues/24324)         | major    | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
 | [#24449](https://github.com/pingcap/tidb/issues/24449)         | minor    | @zoomxi                                                             | [#24921](https://github.com/pingcap/tidb/pull/24921) |      |
 | [#24452](https://github.com/pingcap/tidb/issues/24452)         | moderate | @winoros                                                            |                                                      |      |
-| [#24473](https://github.com/pingcap/tidb/issues/24473)         | critical | @sylzd                                                              | [#24775](https://github.com/pingcap/tidb/pull/24775) |      |
 | [#24512](https://github.com/pingcap/tidb/issues/24512)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#24526](https://github.com/pingcap/tidb/issues/24526)         | major    | @winoros                                                            |                                                      |      |
 | [#24550](https://github.com/pingcap/tidb/issues/24550)         | moderate | @eurekaka                                                           | [#24663](https://github.com/pingcap/tidb/pull/24663) |      |
@@ -94,6 +93,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25041](https://github.com/pingcap/tidb/issues/25041)         | moderate | @eurekaka                                                           | [#25094](https://github.com/pingcap/tidb/pull/25094) |      |
 | [#25043](https://github.com/pingcap/tidb/issues/25043)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25045](https://github.com/pingcap/tidb/issues/25045)         | major    | @zhuo-zhi                                                           |                                                      |      |
+| [#25086](https://github.com/pingcap/tidb/issues/25086)&#x2757; | major    |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -194,6 +194,8 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25059](https://github.com/pingcap/tidb/issues/25059)&#x2757; | major    |                         |                                                      |      |
 | [#25066](https://github.com/pingcap/tidb/issues/25066)&#x2757; | major    |                         |                                                      |      |
 | [#25067](https://github.com/pingcap/tidb/issues/25067)&#x2757; | major    |                         |                                                      |      |
+| [#25093](https://github.com/pingcap/tidb/issues/25093)&#x2757; | major    |                         |                                                      |      |
+| [#25099](https://github.com/pingcap/tidb/issues/25099)         |          | @wshwsh12               | [#25101](https://github.com/pingcap/tidb/pull/25101) |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -274,6 +276,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-03T08:25:55-00:00
+updated at 2021-06-03T09:56:47-00:00
 
 
