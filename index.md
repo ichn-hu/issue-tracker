@@ -91,7 +91,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25010](https://github.com/pingcap/tidb/issues/25010)         | major    | @bb7133                                                             |                                                      |      |
 | [#25013](https://github.com/pingcap/tidb/issues/25013)         | major    | @bb7133                                                             |                                                      |      |
 | [#25014](https://github.com/pingcap/tidb/issues/25014)         | major    | @bb7133                                                             |                                                      |      |
-| [#25041](https://github.com/pingcap/tidb/issues/25041)         | moderate | @eurekaka                                                           |                                                      |      |
+| [#25041](https://github.com/pingcap/tidb/issues/25041)         | moderate | @eurekaka                                                           | [#25094](https://github.com/pingcap/tidb/pull/25094) |      |
 | [#25043](https://github.com/pingcap/tidb/issues/25043)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25045](https://github.com/pingcap/tidb/issues/25045)         | major    | @zhuo-zhi                                                           |                                                      |      |
 
@@ -274,6 +274,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-03T06:48:28-00:00
+updated at 2021-06-03T08:25:55-00:00
 
 
