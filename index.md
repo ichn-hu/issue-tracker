@@ -192,10 +192,8 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25038](https://github.com/pingcap/tidb/issues/25038)         | major    | @ichn-hu                 |                                                      |      |
 | [#25053](https://github.com/pingcap/tidb/issues/25053)&#x2757; | moderate |                          |                                                      |      |
 | [#25066](https://github.com/pingcap/tidb/issues/25066)         | major    | <sub>@guo-shaoge</sub>   |                                                      |      |
-| [#25072](https://github.com/pingcap/tidb/issues/25072)         | major    | @wshwsh12                | [#25238](https://github.com/pingcap/tidb/pull/25238) |      |
 | [#25093](https://github.com/pingcap/tidb/issues/25093)         | major    | @sylzd                   |                                                      |      |
 | [#25167](https://github.com/pingcap/tidb/issues/25167)&#x2757; | moderate |                          |                                                      |      |
-| [#25169](https://github.com/pingcap/tidb/issues/25169)         | major    | @wshwsh12                | [#25238](https://github.com/pingcap/tidb/pull/25238) |      |
 | [#25193](https://github.com/pingcap/tidb/issues/25193)&#x2757; | moderate |                          |                                                      |      |
 | [#25196](https://github.com/pingcap/tidb/issues/25196)&#x2757; | minor    |                          |                                                      |      |
 | [#25199](https://github.com/pingcap/tidb/issues/25199)&#x2757; | moderate |                          |                                                      |      |
@@ -205,6 +203,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25235](https://github.com/pingcap/tidb/issues/25235)&#x2757; | moderate |                          |                                                      |      |
 | [#25270](https://github.com/pingcap/tidb/issues/25270)&#x2757; |          |                          |                                                      |      |
 | [#25291](https://github.com/pingcap/tidb/issues/25291)         |          | @lzmhhh123               |                                                      |      |
+| [#25309](https://github.com/pingcap/tidb/issues/25309)         |          | @qw4990                  |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -286,6 +285,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-09T12:19:32-00:00
+updated at 2021-06-09T13:29:21-00:00
 
 
