@@ -96,6 +96,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25151](https://github.com/pingcap/tidb/issues/25151)&#x2757; | minor    |                                                                     |                                                      |      |
 | [#25219](https://github.com/pingcap/tidb/issues/25219)         | critical | @lzmhhh123</br>@winoros                                             | [#25267](https://github.com/pingcap/tidb/pull/25267) |      |
 | [#25239](https://github.com/pingcap/tidb/issues/25239)&#x2757; | moderate |                                                                     |                                                      |      |
+| [#25254](https://github.com/pingcap/tidb/issues/25254)&#x2757; | critical |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -189,7 +190,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24997](https://github.com/pingcap/tidb/issues/24997)&#x2757; |          |                          |                                                      |      |
 | [#25038](https://github.com/pingcap/tidb/issues/25038)         | major    | @ichn-hu                 |                                                      |      |
 | [#25053](https://github.com/pingcap/tidb/issues/25053)&#x2757; | moderate |                          |                                                      |      |
-| [#25059](https://github.com/pingcap/tidb/issues/25059)&#x2757; | major    |                          |                                                      |      |
 | [#25066](https://github.com/pingcap/tidb/issues/25066)         | major    | <sub>@guo-shaoge</sub>   |                                                      |      |
 | [#25072](https://github.com/pingcap/tidb/issues/25072)         | major    | @wshwsh12                | [#25238](https://github.com/pingcap/tidb/pull/25238) |      |
 | [#25093](https://github.com/pingcap/tidb/issues/25093)         | major    | @sylzd                   |                                                      |      |
@@ -200,11 +200,10 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25199](https://github.com/pingcap/tidb/issues/25199)&#x2757; | moderate |                          |                                                      |      |
 | [#25200](https://github.com/pingcap/tidb/issues/25200)         | critical | @ichn-hu                 |                                                      |      |
 | [#25202](https://github.com/pingcap/tidb/issues/25202)         | critical | @lzmhhh123               | [#25289](https://github.com/pingcap/tidb/pull/25289) |      |
-| [#25217](https://github.com/pingcap/tidb/issues/25217)         | critical | @wshwsh12                |                                                      |      |
+| [#25217](https://github.com/pingcap/tidb/issues/25217)         | moderate | @wshwsh12                |                                                      |      |
 | [#25235](https://github.com/pingcap/tidb/issues/25235)&#x2757; | moderate |                          |                                                      |      |
-| [#25254](https://github.com/pingcap/tidb/issues/25254)&#x2757; | critical |                          |                                                      |      |
 | [#25256](https://github.com/pingcap/tidb/issues/25256)&#x2757; | critical |                          |                                                      |      |
-| [#25291](https://github.com/pingcap/tidb/issues/25291)&#x2757; |          |                          |                                                      |      |
+| [#25291](https://github.com/pingcap/tidb/issues/25291)         |          | @lzmhhh123               |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -286,6 +285,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-09T08:15:36-00:00
+updated at 2021-06-09T09:12:59-00:00
 
 
