@@ -97,6 +97,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25219](https://github.com/pingcap/tidb/issues/25219)         | critical | @lzmhhh123</br>@winoros                                             | [#25267](https://github.com/pingcap/tidb/pull/25267) |      |
 | [#25239](https://github.com/pingcap/tidb/issues/25239)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#25254](https://github.com/pingcap/tidb/issues/25254)&#x2757; | critical |                                                                     |                                                      |      |
+| [#25256](https://github.com/pingcap/tidb/issues/25256)&#x2757; |          |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -202,7 +203,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25202](https://github.com/pingcap/tidb/issues/25202)         | critical | @lzmhhh123               | [#25289](https://github.com/pingcap/tidb/pull/25289) |      |
 | [#25217](https://github.com/pingcap/tidb/issues/25217)         | moderate | @wshwsh12                |                                                      |      |
 | [#25235](https://github.com/pingcap/tidb/issues/25235)&#x2757; | moderate |                          |                                                      |      |
-| [#25256](https://github.com/pingcap/tidb/issues/25256)&#x2757; | critical |                          |                                                      |      |
 | [#25291](https://github.com/pingcap/tidb/issues/25291)         |          | @lzmhhh123               |                                                      |      |
 
 
@@ -285,6 +285,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-09T09:12:59-00:00
+updated at 2021-06-09T10:14:52-00:00
 
 
