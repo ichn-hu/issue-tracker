@@ -207,6 +207,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25270](https://github.com/pingcap/tidb/issues/25270)&#x2757; |          |                                      |                                                      |      |
 | [#25300](https://github.com/pingcap/tidb/issues/25300)         | major    | @wshwsh12</br><sub>@xiongjiwei</sub> | [#25338](https://github.com/pingcap/tidb/pull/25338) |      |
 | [#25309](https://github.com/pingcap/tidb/issues/25309)         | critical | @qw4990                              |                                                      |      |
+| [#25333](https://github.com/pingcap/tidb/issues/25333)&#x2757; | moderate |                                      |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -289,6 +290,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-10T11:13:01-00:00
+updated at 2021-06-10T12:19:43-00:00
 
 
