@@ -97,10 +97,10 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25219](https://github.com/pingcap/tidb/issues/25219)         | critical | @lzmhhh123</br>@winoros                                             | [#25267](https://github.com/pingcap/tidb/pull/25267) |      |
 | [#25239](https://github.com/pingcap/tidb/issues/25239)         | moderate | @rebelice                                                           |                                                      |      |
 | [#25254](https://github.com/pingcap/tidb/issues/25254)&#x2757; | critical |                                                                     |                                                      |      |
-| [#25256](https://github.com/pingcap/tidb/issues/25256)&#x2757; |          |                                                                     |                                                      |      |
 | [#25291](https://github.com/pingcap/tidb/issues/25291)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25320](https://github.com/pingcap/tidb/issues/25320)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25344](https://github.com/pingcap/tidb/issues/25344)         |          | @eurekaka                                                           | [#25345](https://github.com/pingcap/tidb/pull/25345) |      |
+| [#25351](https://github.com/pingcap/tidb/issues/25351)         |          | <sub><sup>@time-and-fate</sup></sub></br>@winoros                   | [#25311](https://github.com/pingcap/tidb/pull/25311) |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -291,6 +291,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-10T16:27:44-00:00
+updated at 2021-06-10T17:42:52-00:00
 
 
