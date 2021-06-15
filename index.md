@@ -207,10 +207,9 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25202](https://github.com/pingcap/tidb/issues/25202)         | critical | @lzmhhh123                           | [#25289](https://github.com/pingcap/tidb/pull/25289) |      |
 | [#25217](https://github.com/pingcap/tidb/issues/25217)&#x2757; | moderate |                                      |                                                      |      |
 | [#25235](https://github.com/pingcap/tidb/issues/25235)&#x2757; | moderate |                                      |                                                      |      |
-| [#25257](https://github.com/pingcap/tidb/issues/25257)         | critical | @tangenta                            | [#25357](https://github.com/pingcap/tidb/pull/25357) |      |
 | [#25270](https://github.com/pingcap/tidb/issues/25270)&#x2757; |          |                                      |                                                      |      |
 | [#25300](https://github.com/pingcap/tidb/issues/25300)         | major    | @wshwsh12</br><sub>@xiongjiwei</sub> | [#25338](https://github.com/pingcap/tidb/pull/25338) |      |
-| [#25309](https://github.com/pingcap/tidb/issues/25309)         | critical | @qw4990</br>@rebelice                |                                                      |      |
+| [#25309](https://github.com/pingcap/tidb/issues/25309)         | critical | @qw4990</br>@rebelice                | [#25426](https://github.com/pingcap/tidb/pull/25426) |      |
 | [#25333](https://github.com/pingcap/tidb/issues/25333)         | moderate | @Howie59                             |                                                      |      |
 | [#25352](https://github.com/pingcap/tidb/issues/25352)&#x2757; | major    |                                      |                                                      |      |
 
@@ -295,6 +294,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-15T08:14:26-00:00
+updated at 2021-06-15T09:13:01-00:00
 
 
