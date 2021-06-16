@@ -97,7 +97,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25270](https://github.com/pingcap/tidb/issues/25270)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25291](https://github.com/pingcap/tidb/issues/25291)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25320](https://github.com/pingcap/tidb/issues/25320)         | major    |                                                                     | [#25477](https://github.com/pingcap/tidb/pull/25477) |      |
-| [#25351](https://github.com/pingcap/tidb/issues/25351)         | major    | <sub><sup>@time-and-fate</sup></sub></br>@winoros                   | [#25311](https://github.com/pingcap/tidb/pull/25311) |      |
 | [#25364](https://github.com/pingcap/tidb/issues/25364)         | major    |                                                                     | [#25390](https://github.com/pingcap/tidb/pull/25390) |      |
 | [#25392](https://github.com/pingcap/tidb/issues/25392)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25394](https://github.com/pingcap/tidb/issues/25394)&#x2757; | major    |                                                                     |                                                      |      |
@@ -298,6 +297,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-16T17:30:31-00:00
+updated at 2021-06-16T18:16:48-00:00
 
 
