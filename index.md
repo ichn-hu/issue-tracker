@@ -104,7 +104,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25455](https://github.com/pingcap/tidb/issues/25455)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25459](https://github.com/pingcap/tidb/issues/25459)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25486](https://github.com/pingcap/tidb/issues/25486)&#x2757; | major    |                                                                     |                                                      |      |
-| [#25489](https://github.com/pingcap/tidb/issues/25489)&#x2757; | major    |                                                                     |                                                      |      |
+| [#25489](https://github.com/pingcap/tidb/issues/25489)         | major    | @rebelice                                                           |                                                      |      |
 | [#25490](https://github.com/pingcap/tidb/issues/25490)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25493](https://github.com/pingcap/tidb/issues/25493)&#x2757; | major    |                                                                     |                                                      |      |
 
@@ -208,7 +208,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25217](https://github.com/pingcap/tidb/issues/25217)&#x2757; | moderate |                                      |                                                      |      |
 | [#25235](https://github.com/pingcap/tidb/issues/25235)&#x2757; | moderate |                                      |                                                      |      |
 | [#25248](https://github.com/pingcap/tidb/issues/25248)&#x2757; | major    |                                      |                                                      |      |
-| [#25254](https://github.com/pingcap/tidb/issues/25254)&#x2757; | critical |                                      |                                                      |      |
 | [#25300](https://github.com/pingcap/tidb/issues/25300)         | major    | @wshwsh12</br><sub>@xiongjiwei</sub> | [#25338](https://github.com/pingcap/tidb/pull/25338) |      |
 | [#25333](https://github.com/pingcap/tidb/issues/25333)         | moderate | @Howie59                             |                                                      |      |
 | [#25480](https://github.com/pingcap/tidb/issues/25480)&#x2757; | moderate |                                      |                                                      |      |
@@ -233,7 +232,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#21335](https://github.com/pingcap/tidb/issues/21335)         | minor    | @you06                  | [#22146](https://github.com/pingcap/tidb/pull/22146) |      |
 | [#21355](https://github.com/pingcap/tidb/issues/21355)&#x2757; | moderate |                         |                                                      |      |
 | [#21506](https://github.com/pingcap/tidb/issues/21506)         | moderate | @cfzjywxk               |                                                      |      |
-| [#21618](https://github.com/pingcap/tidb/issues/21618)&#x2757; | major    |                         |                                                      |      |
 | [#21655](https://github.com/pingcap/tidb/issues/21655)&#x2757; | major    |                         |                                                      |      |
 | [#21688](https://github.com/pingcap/tidb/issues/21688)         | moderate | @you06                  | [#21878](https://github.com/pingcap/tidb/pull/21878) |      |
 | [#22244](https://github.com/pingcap/tidb/issues/22244)&#x2757; | moderate |                         |                                                      |      |
@@ -296,6 +294,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-17T06:16:08-00:00
+updated at 2021-06-17T07:17:11-00:00
 
 
