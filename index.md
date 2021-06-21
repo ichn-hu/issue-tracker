@@ -110,7 +110,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25598](https://github.com/pingcap/tidb/issues/25598)         | critical | @qw4990                                                             | [#25599](https://github.com/pingcap/tidb/pull/25599) |      |
 | [#25600](https://github.com/pingcap/tidb/issues/25600)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#25615](https://github.com/pingcap/tidb/issues/25615)&#x2757; |          |                                                                     |                                                      |      |
-| [#25638](https://github.com/pingcap/tidb/issues/25638)         |          | <sub><sup>@time-and-fate</sup></sub>                                |                                                      |      |
+| [#25638](https://github.com/pingcap/tidb/issues/25638)         |          | <sub><sup>@time-and-fate</sup></sub>                                | [#10418](https://github.com/tikv/tikv/pull/10418)    |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -297,6 +297,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-21T19:11:12-00:00
+updated at 2021-06-21T20:12:35-00:00
 
 
