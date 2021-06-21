@@ -134,7 +134,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#20411](https://github.com/pingcap/tidb/issues/20411)         | moderate | @qw4990                              |                                                      |      |
 | [#20563](https://github.com/pingcap/tidb/issues/20563)         | moderate | <sub>@wjhuang2016</sub>              | [#1129](https://github.com/pingcap/parser/pull/1129) |      |
 | [#21307](https://github.com/pingcap/tidb/issues/21307)&#x2757; | minor    |                                      |                                                      |      |
-| [#21374](https://github.com/pingcap/tidb/issues/21374)         | minor    |                                      | [#21508](https://github.com/pingcap/tidb/pull/21508) |      |
 | [#21584](https://github.com/pingcap/tidb/issues/21584)&#x2757; | major    |                                      |                                                      |      |
 | [#21653](https://github.com/pingcap/tidb/issues/21653)         | moderate |                                      | [#21230](https://github.com/pingcap/tidb/pull/21230) |      |
 | [#21787](https://github.com/pingcap/tidb/issues/21787)&#x2757; | minor    |                                      |                                                      |      |
@@ -214,6 +213,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25529](https://github.com/pingcap/tidb/issues/25529)&#x2757; | moderate |                                      |                                                      |      |
 | [#25546](https://github.com/pingcap/tidb/issues/25546)&#x2757; | moderate |                                      |                                                      |      |
 | [#25584](https://github.com/pingcap/tidb/issues/25584)&#x2757; | major    |                                      |                                                      |      |
+| [#25591](https://github.com/pingcap/tidb/issues/25591)&#x2757; |          |                                      |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -294,6 +294,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-21T03:15:40-00:00
+updated at 2021-06-21T04:16:43-00:00
 
 
