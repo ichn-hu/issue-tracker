@@ -109,6 +109,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25585](https://github.com/pingcap/tidb/issues/25585)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25598](https://github.com/pingcap/tidb/issues/25598)         | critical | @qw4990                                                             | [#25599](https://github.com/pingcap/tidb/pull/25599) |      |
 | [#25600](https://github.com/pingcap/tidb/issues/25600)&#x2757; | moderate |                                                                     |                                                      |      |
+| [#25615](https://github.com/pingcap/tidb/issues/25615)&#x2757; |          |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -295,6 +296,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-21T12:18:53-00:00
+updated at 2021-06-21T13:24:35-00:00
 
 
