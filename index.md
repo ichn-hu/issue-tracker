@@ -111,7 +111,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25600](https://github.com/pingcap/tidb/issues/25600)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#25603](https://github.com/pingcap/tidb/issues/25603)&#x2757; | moderate |                                                                     |                                                      |      |
 | [#25615](https://github.com/pingcap/tidb/issues/25615)&#x2757; | major    |                                                                     |                                                      |      |
-| [#25638](https://github.com/pingcap/tidb/issues/25638)         | major    | <sub><sup>@time-and-fate</sup></sub>                                | [#10418](https://github.com/tikv/tikv/pull/10418)    |      |
 | [#25640](https://github.com/pingcap/tidb/issues/25640)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25642](https://github.com/pingcap/tidb/issues/25642)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25643](https://github.com/pingcap/tidb/issues/25643)&#x2757; | major    |                                                                     |                                                      |      |
@@ -310,6 +309,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-23T04:14:55-00:00
+updated at 2021-06-23T05:10:46-00:00
 
 
