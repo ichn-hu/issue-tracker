@@ -116,6 +116,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25690](https://github.com/pingcap/tidb/issues/25690)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25692](https://github.com/pingcap/tidb/issues/25692)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25700](https://github.com/pingcap/tidb/issues/25700)&#x2757; | major    |                                                                     |                                                      |      |
+| [#25727](https://github.com/pingcap/tidb/issues/25727)&#x2757; |          |                                                                     |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -273,7 +274,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25419](https://github.com/pingcap/tidb/issues/25419)         | major    | @breeswish</br><sub>@crazycs520</sub> |                                                      |      |
 | [#25457](https://github.com/pingcap/tidb/issues/25457)&#x2757; | major    |                                       |                                                      |      |
 | [#25659](https://github.com/pingcap/tidb/issues/25659)&#x2757; | major    |                                       |                                                      |      |
-| [#25680](https://github.com/pingcap/tidb/issues/25680)         | major    | <sub>@youjiali1995</sub>              |                                                      |      |
+| [#25680](https://github.com/pingcap/tidb/issues/25680)         | major    | @sticnarf                             |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -309,6 +310,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-24T03:15:15-00:00
+updated at 2021-06-24T04:17:27-00:00
 
 
