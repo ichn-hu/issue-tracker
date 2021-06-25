@@ -277,7 +277,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25419](https://github.com/pingcap/tidb/issues/25419)         | major    | @breeswish</br><sub>@crazycs520</sub> |                                                      |      |
 | [#25457](https://github.com/pingcap/tidb/issues/25457)&#x2757; | major    |                                       |                                                      |      |
 | [#25659](https://github.com/pingcap/tidb/issues/25659)&#x2757; | major    |                                       |                                                      |      |
-| [#25680](https://github.com/pingcap/tidb/issues/25680)         | major    | @sticnarf                             | [#25732](https://github.com/pingcap/tidb/pull/25732) |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -313,6 +312,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-25T09:13:21-00:00
+updated at 2021-06-25T10:13:54-00:00
 
 
