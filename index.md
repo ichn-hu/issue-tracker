@@ -118,6 +118,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25727](https://github.com/pingcap/tidb/issues/25727)&#x2757; | major    |                                                                     |                                                      |      |
 | [#25729](https://github.com/pingcap/tidb/issues/25729)         | moderate | @zhuo-zhi                                                           | [#25826](https://github.com/pingcap/tidb/pull/25826) |      |
 | [#25812](https://github.com/pingcap/tidb/issues/25812)&#x2757; | major    |                                                                     |                                                      |      |
+| [#25842](https://github.com/pingcap/tidb/issues/25842)         |          | @eurekaka                                                           |                                                      |      |
 
 
 <h2 name="sig/execution">sig/execution</h2>
@@ -315,6 +316,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-06-30T04:15:52-00:00
+updated at 2021-06-30T05:11:19-00:00
 
 
