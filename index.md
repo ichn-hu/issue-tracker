@@ -192,7 +192,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#24627](https://github.com/pingcap/tidb/issues/24627)&#x2757; | major    |                                      |                                                      |      |
 | [#24725](https://github.com/pingcap/tidb/issues/24725)&#x2757; | moderate |                                      |                                                      |      |
 | [#24756](https://github.com/pingcap/tidb/issues/24756)         |          | @XuHuaiyu                            |                                                      |      |
-| [#24768](https://github.com/pingcap/tidb/issues/24768)         | major    | <sub>@guo-shaoge</sub>               |                                                      |      |
 | [#24771](https://github.com/pingcap/tidb/issues/24771)         | major    | @lzmhhh123                           | [#25647](https://github.com/pingcap/tidb/pull/25647) |      |
 | [#24868](https://github.com/pingcap/tidb/issues/24868)         | major    | @wshwsh12                            |                                                      |      |
 | [#24917](https://github.com/pingcap/tidb/issues/24917)&#x2757; | moderate |                                      |                                                      |      |
@@ -281,7 +280,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25419](https://github.com/pingcap/tidb/issues/25419)         | major    | @breeswish</br><sub>@crazycs520</sub> |                                                      |      |
 | [#25457](https://github.com/pingcap/tidb/issues/25457)&#x2757; | major    |                                       |                                                      |      |
 | [#25659](https://github.com/pingcap/tidb/issues/25659)&#x2757; | major    |                                       |                                                      |      |
-| [#25778](https://github.com/pingcap/tidb/issues/25778)         | critical | <sub>@youjiali1995</sub>              |                                                      |      |
+| [#25778](https://github.com/pingcap/tidb/issues/25778)         | critical | <sub>@youjiali1995</sub>              | [#201](https://github.com/tikv/client-go/pull/201)   |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -317,6 +316,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-01T06:16:09-00:00
+updated at 2021-07-01T07:12:09-00:00
 
 
