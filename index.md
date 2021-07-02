@@ -274,7 +274,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25419](https://github.com/pingcap/tidb/issues/25419)         | major    | @breeswish</br><sub>@crazycs520</sub> |                                                      |      |
 | [#25457](https://github.com/pingcap/tidb/issues/25457)&#x2757; | major    |                                       |                                                      |      |
 | [#25659](https://github.com/pingcap/tidb/issues/25659)&#x2757; | major    |                                       |                                                      |      |
-| [#25809](https://github.com/pingcap/tidb/issues/25809)         | critical | @lysu                                 |                                                      |      |
+| [#25809](https://github.com/pingcap/tidb/issues/25809)         | critical | @lysu                                 | [#25905](https://github.com/pingcap/tidb/pull/25905) |      |
 | [#25846](https://github.com/pingcap/tidb/issues/25846)         | major    |                                       | [#25859](https://github.com/pingcap/tidb/pull/25859) |      |
 
 
@@ -311,6 +311,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-02T08:14:34-00:00
+updated at 2021-07-02T09:14:38-00:00
 
 
