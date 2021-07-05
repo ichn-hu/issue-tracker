@@ -279,6 +279,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25809](https://github.com/pingcap/tidb/issues/25809)         | critical | @lysu                                 | [#25905](https://github.com/pingcap/tidb/pull/25905) |      |
 | [#25846](https://github.com/pingcap/tidb/issues/25846)         | major    |                                       | [#25859](https://github.com/pingcap/tidb/pull/25859) |      |
 | [#25897](https://github.com/pingcap/tidb/issues/25897)         | major    | @nolouch                              |                                                      |      |
+| [#25964](https://github.com/pingcap/tidb/issues/25964)         | major    | <sub>@youjiali1995</sub>              |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -314,6 +315,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-05T07:11:59-00:00
+updated at 2021-07-05T08:14:46-00:00
 
 
