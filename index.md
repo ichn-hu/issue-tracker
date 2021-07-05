@@ -121,6 +121,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25842](https://github.com/pingcap/tidb/issues/25842)         | major    | @eurekaka                                                           |                                                      |      |
 | [#25852](https://github.com/pingcap/tidb/issues/25852)         | moderate | @qw4990                                                             |                                                      |      |
 | [#25864](https://github.com/pingcap/tidb/issues/25864)&#x2757; | major    |                                                                     |                                                      |      |
+| [#25898](https://github.com/pingcap/tidb/issues/25898)         | major    | @qw4990                                                             |                                                      |      |
 | [#25929](https://github.com/pingcap/tidb/issues/25929)         | major    |                                                                     | [#25930](https://github.com/pingcap/tidb/pull/25930) |      |
 
 
@@ -229,7 +230,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25802](https://github.com/pingcap/tidb/issues/25802)         | major    | <sub>@guo-shaoge</sub>               |                                                      |      |
 | [#25829](https://github.com/pingcap/tidb/issues/25829)         | moderate |                                      | [#25879](https://github.com/pingcap/tidb/pull/25879) |      |
 | [#25848](https://github.com/pingcap/tidb/issues/25848)&#x2757; | moderate |                                      |                                                      |      |
-| [#25898](https://github.com/pingcap/tidb/issues/25898)&#x2757; | major    |                                      |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -278,7 +278,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#25659](https://github.com/pingcap/tidb/issues/25659)&#x2757; | major    |                                       |                                                      |      |
 | [#25809](https://github.com/pingcap/tidb/issues/25809)         | critical | @lysu                                 | [#25905](https://github.com/pingcap/tidb/pull/25905) |      |
 | [#25846](https://github.com/pingcap/tidb/issues/25846)         | major    |                                       | [#25859](https://github.com/pingcap/tidb/pull/25859) |      |
-| [#25897](https://github.com/pingcap/tidb/issues/25897)&#x2757; | major    |                                       |                                                      |      |
+| [#25897](https://github.com/pingcap/tidb/issues/25897)         | major    | @nolouch                              |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -314,6 +314,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-05T02:23:45-00:00
+updated at 2021-07-05T03:14:17-00:00
 
 
