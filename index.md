@@ -230,6 +230,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26004](https://github.com/pingcap/tidb/issues/26004)         | minor    |                         | [#26005](https://github.com/pingcap/tidb/pull/26005) |      |
 | [#26151](https://github.com/pingcap/tidb/issues/26151)         | moderate |                         | [#26152](https://github.com/pingcap/tidb/pull/26152) |      |
 | [#26250](https://github.com/pingcap/tidb/issues/26250)&#x2757; | major    |                         |                                                      |      |
+| [#26266](https://github.com/pingcap/tidb/issues/26266)&#x2757; |          |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -284,7 +285,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26203](https://github.com/pingcap/tidb/issues/26203)         | critical | @zimulala                             |                                                      |      |
 | [#26213](https://github.com/pingcap/tidb/issues/26213)&#x2757; | major    |                                       |                                                      |      |
 | [#26235](https://github.com/pingcap/tidb/issues/26235)&#x2757; | major    |                                       |                                                      |      |
-| [#26251](https://github.com/pingcap/tidb/issues/26251)&#x2757; | critical |                                       |                                                      |      |
+| [#26251](https://github.com/pingcap/tidb/issues/26251)         | critical | @bb7133                               |                                                      |      |
 
 
 <h2 name="sig/DDL">sig/DDL</h2>
@@ -320,6 +321,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-15T05:11:15-00:00
+updated at 2021-07-15T06:15:52-00:00
 
 
