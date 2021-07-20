@@ -230,6 +230,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26250](https://github.com/pingcap/tidb/issues/26250)&#x2757; | major    |                         |                                                      |      |
 | [#26348](https://github.com/pingcap/tidb/issues/26348)&#x2757; | major    |                         |                                                      |      |
 | [#26349](https://github.com/pingcap/tidb/issues/26349)         | major    | <sub>@wjhuang2016</sub> | [#26354](https://github.com/pingcap/tidb/pull/26354) |      |
+| [#26358](https://github.com/pingcap/tidb/issues/26358)&#x2757; | major    |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -319,6 +320,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-20T02:02:24-00:00
+updated at 2021-07-20T03:14:08-00:00
 
 
