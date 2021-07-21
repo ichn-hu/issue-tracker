@@ -230,6 +230,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26004](https://github.com/pingcap/tidb/issues/26004)         | minor    |                         | [#26005](https://github.com/pingcap/tidb/pull/26005) |      |
 | [#26151](https://github.com/pingcap/tidb/issues/26151)         | moderate |                         | [#26152](https://github.com/pingcap/tidb/pull/26152) |      |
 | [#26358](https://github.com/pingcap/tidb/issues/26358)&#x2757; | major    |                         |                                                      |      |
+| [#26384](https://github.com/pingcap/tidb/issues/26384)&#x2757; | moderate |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -283,7 +284,7 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26213](https://github.com/pingcap/tidb/issues/26213)         | major    |                                       | [#26248](https://github.com/pingcap/tidb/pull/26248) |      |
 | [#26235](https://github.com/pingcap/tidb/issues/26235)         | major    | @bb7133                               |                                                      |      |
 | [#26251](https://github.com/pingcap/tidb/issues/26251)         | critical | <sub>@tiancaiamao</sub>               | [#26380](https://github.com/pingcap/tidb/pull/26380) |      |
-| [#26359](https://github.com/pingcap/tidb/issues/26359)         | critical | @sticnarf                             |                                                      |      |
+| [#26359](https://github.com/pingcap/tidb/issues/26359)         | critical | @sticnarf                             | [#10600](https://github.com/tikv/tikv/pull/10600)    |      |
 | [#26404](https://github.com/pingcap/tidb/issues/26404)         | critical | @cfzjywxk                             |                                                      |      |
 
 
@@ -320,6 +321,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-21T06:15:48-00:00
+updated at 2021-07-21T07:11:43-00:00
 
 
