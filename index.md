@@ -235,6 +235,8 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26400](https://github.com/pingcap/tidb/issues/26400)&#x2757; | major    |                         |                                                      |      |
 | [#26402](https://github.com/pingcap/tidb/issues/26402)&#x2757; | moderate |                         |                                                      |      |
 | [#26407](https://github.com/pingcap/tidb/issues/26407)&#x2757; | major    |                         |                                                      |      |
+| [#26434](https://github.com/pingcap/tidb/issues/26434)&#x2757; | major    |                         |                                                      |      |
+| [#26442](https://github.com/pingcap/tidb/issues/26442)&#x2757; | major    |                         |                                                      |      |
 
 
 <h2 name="sig/transaction">sig/transaction</h2>
@@ -287,7 +289,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 | [#26185](https://github.com/pingcap/tidb/issues/26185)&#x2757; | major    |                                       |                                                      |      |
 | [#26213](https://github.com/pingcap/tidb/issues/26213)         | major    |                                       | [#26248](https://github.com/pingcap/tidb/pull/26248) |      |
 | [#26235](https://github.com/pingcap/tidb/issues/26235)         | major    | @bb7133                               |                                                      |      |
-| [#26251](https://github.com/pingcap/tidb/issues/26251)         | critical | <sub>@tiancaiamao</sub>               | [#26380](https://github.com/pingcap/tidb/pull/26380) |      |
 | [#26359](https://github.com/pingcap/tidb/issues/26359)         | critical | @sticnarf                             | [#10600](https://github.com/tikv/tikv/pull/10600)    |      |
 | [#26404](https://github.com/pingcap/tidb/issues/26404)         | critical | @cfzjywxk                             |                                                      |      |
 
@@ -325,6 +326,6 @@ Feel free to comment on issues that interest you, and ask whatever questions you
 
 ---
 
-updated at 2021-07-21T09:13:28-00:00
+updated at 2021-07-21T10:13:41-00:00
 
 
